@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/GuilhermeADS13">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2563EB&center=true&vCenter=true&width=620&lines=Desenvolvedor+Full+Stack;IA+generativa+com+LLMs+%2B+RAG;Automa%C3%A7%C3%A3o+de+fluxos+com+n8n;IoT+com+ESP32+e+Bluetooth+LE;Do+sensor+ao+dashboard+%E2%9A%A1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2563EB&center=true&vCenter=true&width=620&lines=Desenvolvedor+Full+Stack;IA+generativa+com+LLMs+%2B+RAG;Automa%C3%A7%C3%A3o+de+fluxos+com+n8n;IoT+com+ESP32+e+Bluetooth+LE;Do+sensor+ao+dashboard" alt="Typing SVG" />
   </a>
 </p>
 
@@ -18,18 +18,18 @@
 
 ---
 
-## 🧑‍💻 Sobre mim
+## Sobre mim
 
 Construo sistemas de ponta a ponta, **do sensor ao dashboard** e **do PDF à peça jurídica gerada por IA**.
 
-- 🎓 Estudante na **UNICAP** (Universidade Católica de Pernambuco)
-- ⚖️ Hoje trabalho no **JurisFlow**, plataforma que automatiza peças processuais com **LLMs + RAG**
-- 🤖 Gosto de juntar **IA generativa**, **automação de fluxos** e **produto que vai pro ar de verdade**
-- 🌱 Estudando agora: arquitetura de agentes de IA, busca vetorial e infraestrutura em nuvem
+- Estudante na **UNICAP** (Universidade Católica de Pernambuco)
+- Hoje trabalho no **JurisFlow**, plataforma que automatiza peças processuais com **LLMs + RAG**
+- Gosto de juntar **IA generativa**, **automação de fluxos** e **produto que vai pro ar de verdade**
+- Estudando agora: arquitetura de agentes de IA, busca vetorial e infraestrutura em nuvem
 
 ---
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,ts,js,java,c,cpp,html,css&perline=8" alt="Linguagens" /><br/>
@@ -39,7 +39,7 @@ Construo sistemas de ponta a ponta, **do sensor ao dashboard** e **do PDF à pe�
 </p>
 
 <details>
-<summary><b>📋 Ver stack completa</b></summary>
+<summary><b>Ver stack completa</b></summary>
 <br/>
 
 | Área | Stack |
@@ -59,13 +59,13 @@ Construo sistemas de ponta a ponta, **do sensor ao dashboard** e **do PDF à pe�
 
 ---
 
-## 🚀 Projetos em destaque
+## Projetos em destaque
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ⚖️ JurisFlow — Defesa Inteligente
+### JurisFlow — Defesa Inteligente
 Lê a petição inicial (PDF/OCR), recupera jurisprudência relevante via **RAG** e gera a contestação em `.docx` com **Claude**.
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -81,7 +81,7 @@ Lê a petição inicial (PDF/OCR), recupera jurisprudência relevante via **RAG*
 </td>
 <td width="50%" valign="top">
 
-### 🧠 VozInterior — Atendimento Psicológico
+### VozInterior — Atendimento Psicológico
 Consultório online para psicólogos: agendamento com link da sala, videochamada no navegador, prontuário por sessão e lembretes por e-mail.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -99,7 +99,7 @@ Consultório online para psicólogos: agendamento com link da sala, videochamada
 <tr>
 <td width="50%" valign="top">
 
-### 🌆 CyberCall
+### CyberCall
 Rede social em tempo real com tema cyberpunk: comunidades, mensagens, presença via WebSocket, voz/vídeo com WebRTC e moderação.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -114,7 +114,7 @@ Rede social em tempo real com tema cyberpunk: comunidades, mensagens, presença 
 </td>
 <td width="50%" valign="top">
 
-### 🌡️ GRAUCONST — Monitoramento IoT
+### GRAUCONST — Monitoramento IoT
 ESP32 lê o sensor por BLE, envia ao Supabase e o dashboard atualiza em tempo real, com alertas no Telegram.
 
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
@@ -131,7 +131,7 @@ ESP32 lê o sensor por BLE, envia ao Supabase e o dashboard atualiza em tempo re
 <tr>
 <td width="50%" valign="top">
 
-### 📚 Bibliotechs
+### Bibliotechs
 Gerenciador de leituras integrado à API do Google Books, com autenticação e testes automatizados.
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -145,7 +145,7 @@ Gerenciador de leituras integrado à API do Google Books, com autenticação e t
 </td>
 <td width="50%" valign="top">
 
-### 📆 TimeSlot — API de Agendamento
+### TimeSlot — API de Agendamento
 Reserva de salas e equipamentos para a universidade, com consulta de disponibilidade e prevenção de conflitos de horário.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -161,30 +161,30 @@ Reserva de salas e equipamentos para a universidade, com consulta de disponibili
 
 ---
 
-## 📂 Outros projetos
+## Outros projetos
 
 <details>
 <summary><b>Ver todos</b></summary>
 <br/>
 
-**🌐 Web**
+**Web**
 - [Portal Psicológico](https://github.com/GuilhermeADS13/Portal-Psicologico): perfil profissional que reúne os links de atendimento · [demo](https://portal-psicologico.vercel.app)
 - [Selenium Web Service](https://github.com/GuilhermeADS13/-Selenium-WEB-SERVICE): serviço web de automação com Selenium
 
-**🎓 Acadêmicos (UNICAP)**
+**Acadêmicos (UNICAP)**
 - [CG-STEVE](https://github.com/GuilhermeADS13/CG-STEVE): transformações geométricas 2D com Canvas (Computação Gráfica)
 - [Métodos Numéricos — Grupo Eta](https://github.com/GuilhermeADS13/Grupo-Eta-Metodos-Numericos): cálculo numérico da corrente em um circuito com dispositivo não linear
 - [Programação Estruturada](https://github.com/GuilhermeADS13/Programacao-Estruturada): exercícios em C
 - [Projeto Robôs](https://github.com/GuilhermeADS13/ProjetoRobos) · [Projeto Carros](https://github.com/GuilhermeADS13/Projeto_Carros) · [Banco de Dados](https://github.com/GuilhermeADS13/Banco--de--Dados)
 
-**🕹️ Estudos**
+**Estudos**
 - [Jogo do Mario](https://github.com/GuilhermeADS13/Jogo-do-Mario) · [Google Glass (Curso em Vídeo)](https://github.com/GuilhermeADS13/Google_Glass_Gustavo_Gunabara)
 
 </details>
 
 ---
 
-## 📫 Vamos conversar?
+## Vamos conversar?
 
 <p align="center">
   Estou aberto a <b>novas oportunidades</b> com IA, automação e desenvolvimento web.<br/>
