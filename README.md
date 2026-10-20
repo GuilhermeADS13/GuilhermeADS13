@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/guilherme-maciel-783688232/"><img src="https://img.shields.io/badge/LinkedIn-Guilherme_Maciel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/GuilhermeADS13"><img src="https://img.shields.io/badge/GitHub-GuilhermeADS13-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://guilhermeads13.github.io"><img src="https://img.shields.io/badge/Portf%C3%B3lio-guilhermeads13.github.io-3D63F0?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio" /></a>
   <img src="https://img.shields.io/badge/Recife-PE-2563EB?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Recife, PE" />
   <img src="https://img.shields.io/badge/Aberto_a-oportunidades-22C55E?style=for-the-badge" alt="Aberto a oportunidades" />
 </p>
@@ -81,8 +81,8 @@ Lê a petição inicial (PDF/OCR), recupera jurisprudência relevante via **RAG*
 </td>
 <td width="50%" valign="top">
 
-### 🧠 SAS — Atendimento Psicológico
-Plataforma de atendimento por videochamada com gestão de prontuários psicológicos e recursos de IA.
+### 🧠 VozInterior — Atendimento Psicológico
+Consultório online para psicólogos: agendamento com link da sala, videochamada no navegador, prontuário por sessão e lembretes por e-mail.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -92,7 +92,7 @@ Plataforma de atendimento por videochamada com gestão de prontuários psicológ
 ![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
 
 [![Código](https://img.shields.io/badge/C%C3%B3digo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GuilhermeADS13/SAS-AtendimentoPsicologico)
-[![Demo](https://img.shields.io/badge/Demo-22C55E?style=for-the-badge&logo=render&logoColor=white)](https://sas-atendimento-psicologico.onrender.com)
+[![Demo](https://img.shields.io/badge/VozInterior-no_ar-22C55E?style=for-the-badge&logo=render&logoColor=white)](https://sas-atendimento-psicologico.onrender.com)
 
 </td>
 </tr>
@@ -193,6 +193,7 @@ Reserva de salas e equipamentos para a universidade, com consulta de disponibili
 
 <p align="center">
   <a href="https://www.linkedin.com/in/guilherme-maciel-783688232/"><img src="https://img.shields.io/badge/Falar_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Falar no LinkedIn" /></a>
+  <a href="https://guilhermeads13.github.io"><img src="https://img.shields.io/badge/Ver_portf%C3%B3lio-3D63F0?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Ver portfólio" /></a>
 </p>
 
 <!-- Rodapé -->
