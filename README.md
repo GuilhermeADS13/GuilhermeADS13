@@ -1,19 +1,29 @@
-<div align="center">
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=200&section=header&text=Guilherme%20Maciel&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20%C2%B7%20IA%20aplicada%20%C2%B7%20Automa%C3%A7%C3%A3o%20%C2%B7%20IoT&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Guilherme Maciel" />
+</p>
 
-# Olá, eu sou o Guilherme Maciel 👋
+<p align="center">
+  <a href="https://github.com/GuilhermeADS13">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2563EB&center=true&vCenter=true&width=620&lines=Desenvolvedor+Full+Stack;IA+generativa+com+LLMs+%2B+RAG;Automa%C3%A7%C3%A3o+de+fluxos+com+n8n;IoT+com+ESP32+e+Bluetooth+LE;Do+sensor+ao+dashboard+%E2%9A%A1" alt="Typing SVG" />
+  </a>
+</p>
 
-### Desenvolvedor Full Stack · IA aplicada · Automação · IoT
-
-Construo sistemas de ponta a ponta — do sensor ao dashboard, do PDF à peça jurídica gerada por IA.
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/guilherme-maciel-783688232/"><img src="https://img.shields.io/badge/LinkedIn-Guilherme_Maciel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/GuilhermeADS13"><img src="https://img.shields.io/badge/GitHub-GuilhermeADS13-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <img src="https://img.shields.io/badge/Recife-PE-2563EB?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Recife, PE" />
+  <img src="https://img.shields.io/badge/Aberto_a-oportunidades-22C55E?style=for-the-badge" alt="Aberto a oportunidades" />
+</p>
 
 ---
 
 ## 🧑‍💻 Sobre mim
 
+Construo sistemas de ponta a ponta, **do sensor ao dashboard** e **do PDF à peça jurídica gerada por IA**.
+
 - 🎓 Estudante na **UNICAP** (Universidade Católica de Pernambuco)
-- ⚖️ Hoje trabalho no **JurisFlow**, uma plataforma que automatiza peças processuais com LLMs + RAG
+- ⚖️ Hoje trabalho no **JurisFlow**, plataforma que automatiza peças processuais com **LLMs + RAG**
 - 🤖 Gosto de juntar **IA generativa**, **automação de fluxos** e **produto que vai pro ar de verdade**
 - 🌱 Estudando agora: arquitetura de agentes de IA, busca vetorial e infraestrutura em nuvem
 
@@ -21,17 +31,16 @@ Construo sistemas de ponta a ponta — do sensor ao dashboard, do PDF à peça j
 
 ## 🛠️ Tecnologias
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,ts,js,java,c,cpp,html,css&perline=8" alt="Linguagens" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,express,fastapi&perline=8" alt="Front-end e back-end" /><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,supabase,mysql,firebase,docker,githubactions,vercel,linux&perline=8" alt="Dados e DevOps" /><br/>
+  <img src="https://skillicons.dev/icons?i=git,arduino,selenium,vitest,figma&perline=8" alt="Ferramentas" />
+</p>
 
-[![Tecnologias](https://skillicons.dev/icons?i=py,ts,js,java,c,cpp,html,css&perline=8)](https://skillicons.dev)
+<details>
+<summary><b>📋 Ver stack completa</b></summary>
 <br/>
-[![Tecnologias](https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,express,fastapi&perline=8)](https://skillicons.dev)
-<br/>
-[![Tecnologias](https://skillicons.dev/icons?i=postgres,supabase,mysql,firebase,docker,githubactions,vercel,linux&perline=8)](https://skillicons.dev)
-<br/>
-[![Tecnologias](https://skillicons.dev/icons?i=git,arduino,selenium,vitest,figma&perline=8)](https://skillicons.dev)
-
-</div>
 
 | Área | Stack |
 |---|---|
@@ -46,6 +55,8 @@ Construo sistemas de ponta a ponta — do sensor ao dashboard, do PDF à peça j
 | **Testes** | Vitest · Playwright |
 | **Ferramentas** | Git · Figma · Trello · Jupyter |
 
+</details>
+
 ---
 
 ## 🚀 Projetos em destaque
@@ -54,62 +65,95 @@ Construo sistemas de ponta a ponta — do sensor ao dashboard, do PDF à peça j
 <tr>
 <td width="50%" valign="top">
 
-### ⚖️ [JurisFlow — Defesa Inteligente](https://github.com/GuilhermeADS13/API-JURISFLOW-DEFESA-INTELIGENTE)
-Microsserviço que lê a petição inicial (PDF/OCR), recupera jurisprudência relevante via **RAG** e gera a contestação em `.docx` com **Claude**.
+### ⚖️ JurisFlow — Defesa Inteligente
+Lê a petição inicial (PDF/OCR), recupera jurisprudência relevante via **RAG** e gera a contestação em `.docx` com **Claude**.
 
-`FastAPI` `Claude API` `pgvector` `n8n` `Docker` `React`
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
-🔗 [Demo](https://api-de-automa-ao-de-contestacao.vercel.app)
+[![Código](https://img.shields.io/badge/C%C3%B3digo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GuilhermeADS13/API-JURISFLOW-DEFESA-INTELIGENTE)
+[![Demo](https://img.shields.io/badge/Demo-22C55E?style=for-the-badge&logo=vercel&logoColor=white)](https://api-de-automa-ao-de-contestacao.vercel.app)
 
 </td>
 <td width="50%" valign="top">
 
-### 🧠 [SAS — Atendimento Psicológico](https://github.com/GuilhermeADS13/SAS-AtendimentoPsicologico)
+### 🧠 SAS — Atendimento Psicológico
 Plataforma de atendimento por videochamada com gestão de prontuários psicológicos e recursos de IA.
 
-`TypeScript` `React` `tRPC` `Supabase` `LangChain` `Drizzle`
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=flat-square&logo=trpc&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
 
-🔗 [Demo](https://sas-atendimento-psicologico.vercel.app)
+[![Código](https://img.shields.io/badge/C%C3%B3digo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GuilhermeADS13/SAS-AtendimentoPsicologico)
+[![Demo](https://img.shields.io/badge/Demo-22C55E?style=for-the-badge&logo=render&logoColor=white)](https://sas-atendimento-psicologico.onrender.com)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🌆 [CyberCall](https://github.com/GuilhermeADS13/CyberCall)
+### 🌆 CyberCall
 Rede social em tempo real com tema cyberpunk: comunidades, mensagens, presença via WebSocket, voz/vídeo com WebRTC e moderação.
 
-`TypeScript` `React` `WebRTC` `WebSocket` `tRPC` `MySQL`
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=flat-square&logo=trpc&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+[![Código](https://img.shields.io/badge/C%C3%B3digo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GuilhermeADS13/CyberCall)
 
 </td>
 <td width="50%" valign="top">
 
-### 🌡️ [GRAUCONST](https://github.com/GuilhermeADS13/GRAUCONST)
-Monitoramento IoT de temperatura e umidade: ESP32 lê o sensor por BLE, envia ao Supabase e o dashboard atualiza em tempo real, com alertas no Telegram.
+### 🌡️ GRAUCONST — Monitoramento IoT
+ESP32 lê o sensor por BLE, envia ao Supabase e o dashboard atualiza em tempo real, com alertas no Telegram.
 
-`ESP32` `C++` `Supabase Realtime` `React` `TypeScript`
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase_Realtime-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)
 
-🔗 [Demo](https://grauconst.vercel.app)
+[![Código](https://img.shields.io/badge/C%C3%B3digo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GuilhermeADS13/GRAUCONST)
+[![Demo](https://img.shields.io/badge/Demo-22C55E?style=for-the-badge&logo=vercel&logoColor=white)](https://grauconst.vercel.app)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📚 [Bibliotechs](https://github.com/GuilhermeADS13/bibliotechs)
+### 📚 Bibliotechs
 Gerenciador de leituras integrado à API do Google Books, com autenticação e testes automatizados.
 
-`React` `Firebase` `Tailwind` `Vitest`
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
 
-🔗 [Demo](https://bibliotechs.vercel.app)
+[![Código](https://img.shields.io/badge/C%C3%B3digo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GuilhermeADS13/bibliotechs)
+[![Demo](https://img.shields.io/badge/Demo-22C55E?style=for-the-badge&logo=vercel&logoColor=white)](https://bibliotechs.vercel.app)
 
 </td>
 <td width="50%" valign="top">
 
-### 📆 [TimeSlot — API de Agendamento](https://github.com/GuilhermeADS13/API-AGENDAMENTO)
-API de reserva de salas e equipamentos para a universidade, com consulta de disponibilidade e prevenção de conflitos de horário.
+### 📆 TimeSlot — API de Agendamento
+Reserva de salas e equipamentos para a universidade, com consulta de disponibilidade e prevenção de conflitos de horário.
 
-`Java` `HTML` `CSS` `Figma`
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+[![Código](https://img.shields.io/badge/C%C3%B3digo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GuilhermeADS13/API-AGENDAMENTO)
 
 </td>
 </tr>
@@ -118,6 +162,10 @@ API de reserva de salas e equipamentos para a universidade, com consulta de disp
 ---
 
 ## 📂 Outros projetos
+
+<details>
+<summary><b>Ver todos</b></summary>
+<br/>
 
 **🌐 Web**
 - [Portal Psicológico](https://github.com/GuilhermeADS13/Portal-Psicologico): perfil profissional que reúne os links de atendimento · [demo](https://portal-psicologico.vercel.app)
@@ -132,13 +180,22 @@ API de reserva de salas e equipamentos para a universidade, com consulta de disp
 **🕹️ Estudos**
 - [Jogo do Mario](https://github.com/GuilhermeADS13/Jogo-do-Mario) · [Google Glass (Curso em Vídeo)](https://github.com/GuilhermeADS13/Google_Glass_Gustavo_Gunabara)
 
+</details>
+
 ---
 
-## 📫 Contato
+## 📫 Vamos conversar?
 
-<div align="center">
+<p align="center">
+  Estou aberto a <b>novas oportunidades</b> com IA, automação e desenvolvimento web.<br/>
+  O jeito mais rápido de falar comigo é pelo LinkedIn.
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Guilherme_Maciel-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/guilherme-maciel-783688232/)
-[![GitHub](https://img.shields.io/badge/GitHub-GuilhermeADS13-181717?style=for-the-badge&logo=github)](https://github.com/GuilhermeADS13)
+<p align="center">
+  <a href="https://www.linkedin.com/in/guilherme-maciel-783688232/"><img src="https://img.shields.io/badge/Falar_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Falar no LinkedIn" /></a>
+</p>
 
-</div>
+<!-- Rodapé -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1e3a8a,100:0f172a&height=110&section=footer" width="100%" alt="" />
+</p>
