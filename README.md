@@ -138,6 +138,7 @@ API de reserva de salas e equipamentos para a universidade, com consulta de disp
 
 <div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Guilherme_Maciel-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/guilherme-maciel-783688232/)
 [![GitHub](https://img.shields.io/badge/GitHub-GuilhermeADS13-181717?style=for-the-badge&logo=github)](https://github.com/GuilhermeADS13)
 
 </div>
