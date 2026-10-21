@@ -22,7 +22,7 @@
 
 Construo sistemas de ponta a ponta, **do sensor ao dashboard** e **do PDF à peça jurídica gerada por IA**.
 
-- Estudante na **UNICAP** (Universidade Católica de Pernambuco)
+- Estudante de **Ciência da Computação** na **UNICAP** (Universidade Católica de Pernambuco)
 - Hoje trabalho no **JurisFlow**, plataforma que automatiza peças processuais com **LLMs + RAG**
 - Gosto de juntar **IA generativa**, **automação de fluxos** e **produto que vai pro ar de verdade**
 - Estudando agora: arquitetura de agentes de IA, busca vetorial e infraestrutura em nuvem
